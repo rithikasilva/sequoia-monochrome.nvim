@@ -17,12 +17,12 @@ function M.setup()
 
         focus_high = "#1F1F24",
 
-        blue = "#8eb6f5",
-        purple = "#c58fff",
-        pink = "#f58ee0",
-        orange = "#ffbb88",
-        gray = "#9898a6",
-        white = "#fdfdfe",
+        blue = "#626983",
+        purple = "#7C829D",
+        pink = "#999EB2",
+        orange = "#B6BAC8",
+        gray = "#D3D5DE",
+        white = "#E2E4ED",
     }
     colors.bg_cursor_line = "#18191e"
     colors.non_text_fg = colors.soft

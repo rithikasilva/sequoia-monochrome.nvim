@@ -1,4 +1,4 @@
-" let g:colors_name = 'sequoia-moonlight'
+" let g:colors_name = 'sequoia-monochrome'
 " set background=dark
 " highlight clear
 "
